@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_138958_school_student" label="student" max_length="40" name="x_138958_company_student" type="collection">
-        <element label="school" max_length="40" name="school" type="string"/>
-    </element>
+    <element extends="x_138958_school_student" label="student" max_length="40" name="x_138958_company_student" type="collection"/>
 </database>
